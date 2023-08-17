@@ -1,1 +1,1 @@
-# SQL-Case-Study-Challenges-by-Data-In-Motion-LLC
+# Data-Challenges-by-Data-In-Motion-LLC
